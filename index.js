@@ -13,7 +13,7 @@ const SETTINGS = {
   CITY: 'YOUR CITY',
   CALL_PHONE: '03XX-XXXXXXX',
   OPENING_HOURS: '11:00 AM - 11:00 PM (every day)',
-  BOT_NUMBER: '03XXXXXXXXX',              // the WhatsApp number the bot runs on
+  BOT_NUMBER: '0308 6279581',              // the WhatsApp number the bot runs on
   OWNER_NUMBER: '',                       // optional, e.g. 03XXXXXXXXX (gets order/booking alerts)
   FLOW: 'ORDER',                          // 'ORDER' | 'BOOKING' | 'INFO'
   CURRENCY: 'Rs',
